@@ -1,6 +1,10 @@
 # multinestedviewset
 multi nested viewset in django restful framework
 
+### Install drf
+ - https://pypi.python.org/pypi/drf-nested-routers
+
+
 ### See common/viewsets.py
 
 ```sh
